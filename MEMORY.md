@@ -1,0 +1,1 @@
+/Users/doson/.hermes/profiles/pol/memories/MEMORY.md

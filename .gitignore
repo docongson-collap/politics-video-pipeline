@@ -1,0 +1,13 @@
+.env*
+*.db
+__pycache__/
+.DS_Store
+cases/*/assets/
+cases/*/audio*/
+cases/*/edit/
+output/
+kho/
+control/
+work-orders/logs/
+*.mp4
+*.wav
