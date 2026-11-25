@@ -4,7 +4,6 @@ __pycache__/
 .DS_Store
 cases/*/assets/
 cases/*/audio*/
-cases/*/edit/
 output/
 kho/
 control/

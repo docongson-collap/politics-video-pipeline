@@ -1,0 +1,182 @@
+[
+ {
+  "type": "vo",
+  "seg": "B1",
+  "beat": "B1"
+ },
+ {
+  "type": "clip",
+  "id": "K1",
+  "src": "TC-axC1IL00.mp4",
+  "in": "00:14",
+  "out": "00:30",
+  "claim": "C3",
+  "words": "Mr. Attorney General, the president said that Jensen Huang was exonerated from wrongdoing and that was one of the assurances to the board. Did the Justice Department investigate Jensen?",
+  "beat": "B1"
+ },
+ {
+  "type": "clip",
+  "id": "K2",
+  "src": "TC-axC1IL00.mp4",
+  "in": "00:31",
+  "out": "00:46",
+  "claim": "C1",
+  "words": "Well, so no, what the president said is that he talked to a lot of people going into the decision that he made to encourage the board to reinstate him. And so I'm not going to get into communications I have with the president about it.",
+  "beat": "B1"
+ },
+ {
+  "type": "vo",
+  "seg": "B2",
+  "beat": "B1"
+ },
+ {
+  "type": "vo",
+  "seg": "B3",
+  "beat": "B2"
+ },
+ {
+  "type": "vo",
+  "seg": "B4",
+  "beat": "B3"
+ },
+ {
+  "type": "clip",
+  "id": "K3",
+  "src": "TC-axC1IL00.mp4",
+  "in": "01:04",
+  "out": "01:10",
+  "claim": "C2",
+  "words": "I'm not going to talk about investigation, but what does that mean, had Huang been investigated? For what?",
+  "beat": "B3"
+ },
+ {
+  "type": "vo",
+  "seg": "B5",
+  "beat": "B3"
+ },
+ {
+  "type": "clip",
+  "id": "K4",
+  "src": "TC-axC1IL00.mp4",
+  "in": "02:00",
+  "out": "02:07",
+  "claim": "C2",
+  "words": "So we have hundreds, if not more, export investigations going at any time at the Department of Justice.",
+  "beat": "B3"
+ },
+ {
+  "type": "vo",
+  "seg": "B6",
+  "beat": "B3"
+ },
+ {
+  "type": "clip",
+  "id": "K5",
+  "src": "TC-axC1IL00.mp4",
+  "in": "09:52",
+  "out": "09:58",
+  "claim": "C17",
+  "words": "But what I will say is yes, Nvidia is a good corporate citizen.",
+  "beat": "B3"
+ },
+ {
+  "type": "vo",
+  "seg": "B7",
+  "beat": "B3"
+ },
+ {
+  "type": "clip",
+  "id": "K6",
+  "src": "TC-axC1IL00.mp4",
+  "in": "13:46",
+  "out": "13:52",
+  "claim": "C2",
+  "words": "I don't have any information about even what his clearance status is.",
+  "beat": "B3"
+ },
+ {
+  "type": "vo",
+  "seg": "B8",
+  "beat": "B3"
+ },
+ {
+  "type": "vo",
+  "seg": "B9",
+  "beat": "B4"
+ },
+ {
+  "type": "clip",
+  "id": "K7",
+  "src": "CNN_me20cb05073fdab89ec615e8b341bdd6d459587184.mp4",
+  "in": "01:50",
+  "out": "02:01",
+  "claim": "C20",
+  "words": "It appears, based on the facts alleged in the indictment, that there was access to those chips, yes.",
+  "beat": "B4"
+ },
+ {
+  "type": "vo",
+  "seg": "B10",
+  "beat": "B4"
+ },
+ {
+  "type": "vo",
+  "seg": "B11",
+  "beat": "B5"
+ },
+ {
+  "type": "vo",
+  "seg": "B12",
+  "beat": "B6"
+ },
+ {
+  "type": "vo",
+  "seg": "B13",
+  "beat": "B7"
+ },
+ {
+  "type": "clip",
+  "id": "K8",
+  "src": "podforceone_hVCMk36xo_s_1015.mp4",
+  "in": "00:18",
+  "out": "00:33",
+  "claim": "C10",
+  "words": "There was this misperception that there's this separation and independence between the Department of Justice and the White House, and they accuse me of not suffering from independence. I don't. I work for President Trump. But they did too.",
+  "beat": "B7"
+ },
+ {
+  "type": "vo",
+  "seg": "B14",
+  "beat": "B7"
+ },
+ {
+  "type": "vo",
+  "seg": "B15",
+  "beat": "B8"
+ },
+ {
+  "type": "vo",
+  "seg": "B16",
+  "beat": "B9"
+ },
+ {
+  "type": "clip",
+  "id": "K9",
+  "src": "CNN_me6ad953179aa97b71867f032e98881920cf2d84c5.mp4",
+  "in": "00:26",
+  "out": "00:34",
+  "claim": "C24",
+  "words": "The Brits gave us taxation without representation. The Trump administration's giving us exoneration without investigation.",
+  "beat": "B9"
+ },
+ {
+  "type": "vo",
+  "seg": "B17",
+  "beat": "B9"
+ },
+ {
+  "type": "vo",
+  "seg": "B18",
+  "beat": "B10"
+ }
+]
